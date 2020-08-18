@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # petshopMerchant
 
 A new Flutter project.
